@@ -38,7 +38,6 @@ a:hover {
 
 #menuToggle input {
   display: block;
-  width: 100%;
   height: 32px;
   position: absolute;
   cursor: pointer;
@@ -180,7 +179,7 @@ label > span {
 @media screen and (max-width: 768px) {
   #menu {
     padding-top: 150px;
-    width: 100.5vw;
+    width: 100vw;
   }
 
 }
