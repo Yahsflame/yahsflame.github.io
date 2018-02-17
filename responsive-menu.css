@@ -103,7 +103,7 @@ a:hover {
   background: #ffffff;
   list-style-type: none;
   -webkit-font-smoothing: antialiased;
-/*   transform: translateX(-100%); */
+  transform: translateX(400px);
   transition: transform 1s;
 }
 
