@@ -115,3 +115,18 @@
     </ul>
   </div>
 </nav>
+
+<script>
+  var slideTogger = function(){
+    function widthChange(){
+      var widthcheck = document.getElementById("menu");
+      if (widthcheck.style.width == 0){
+          widthcheck.style.width == "400px";
+      }else {
+        widthcheck.style.width == "0px";
+      }
+    }
+    
+    document.getElementById("menutoggle").onclick=widthChange();
+  }
+</script>
