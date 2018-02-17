@@ -96,7 +96,7 @@ a:hover {
   position: absolute;
   top: 0;
   left: 0;
-  width: 0;
+  width: 400px;
   min-height: 100vh;
   margin: -100px 0 0 -50px;
   padding-top: 200px;
